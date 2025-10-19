@@ -11,6 +11,6 @@ int main()
 
 	printf("4th set of changes on 19oct\n");
 	printf("anothe set of changes to main main without saving to a branch\n");
-	printf("changes in gitexptemp folder");
+	printf("changes in gitexptemp folder -- reversed in main");
 	return 0;
 }
